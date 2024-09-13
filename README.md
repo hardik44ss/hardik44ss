@@ -8,7 +8,7 @@
 - 👨‍💻 All of my 100DaysOfCode are available at [100 Days of Code](https://github.com/hardik44ss/100-Days-of-Code)
 - 💬 Ask me about **C++, Java, DSA, Maths, Kotlin**
 - 📫 How to reach me **hardiksuthar4444@gmail.com**
-- ⚡ Fun fact **I Think I'm Funny😂**
+- ⚡ "THe Longer you live , the more you realise"🔅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
