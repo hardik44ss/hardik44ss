@@ -1,4 +1,4 @@
-Here’s an updated version of your README file to reflect your achievement and new focus:
+
 
 ---
 
@@ -17,7 +17,7 @@ Here’s an updated version of your README file to reflect your achievement and 
 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/hardik44ss/).  
 
 💬 Ask me about C++, DSA, and Problem Solving.  
-- 📫 How to reach me: **hardiksuthar4444@gmail.com**.  
+- 📫 How to reach me: **hardik4444ssss@gmail.com**.  
 - ⚡ Fun fact: *"The longer you live, the more you realize."* 🔅  
 
 <h3 align="left">Connect with me:</h3>
