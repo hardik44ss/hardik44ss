@@ -168,19 +168,7 @@
 
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardik44ss&theme=tokyonight" alt="GitHub contribution summary"/>
 
-</div>
 
-<br/>
-
-<!-- ===================================================================== -->
-<!-- 8. CONTRIBUTION JOURNEY                                               -->
-<!-- ===================================================================== -->
-<h2 align="center">🐍 My Contribution Journey</h2>
-
-<div align="center">
-
-<!-- Instant Contribution Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hardik44ss&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardik44ss/hardik44ss/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardik44ss/hardik44ss/output/github-snake.svg" />
