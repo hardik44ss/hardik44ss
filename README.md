@@ -1,49 +1,198 @@
+<!-- ===================================================================== -->
+<!-- 1. HEADER & INTRO SECTION                                             -->
+<!-- ===================================================================== -->
+<h1 align="center">
+  Hi!! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" />
+  I'm <a href="https://www.linkedin.com/in/hardik44s/" target="_blank">Harbansh</a>
+</h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer coding animation"/>
+</div>
 
----
+<!-- ===================================================================== -->
+<!-- 2. TYPING ANIMATION & CURRENT STATUS                                  -->
+<!-- ===================================================================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Hardik Suthar</h1>
-<h3 align="center">A Passionate CSE Student from Chandigarh University, India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik44ss&label=Profile%20views&color=0e75b6&style=flat" alt="hardik44ss" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Backend+Development;DSA+%7C+Problem+Solving;Building+Projects+%7C+Learning+Every+Day;CSE+2023-2027+%7C+Chandigarh+University)](https://git.io/typing-svg)
 
-- 🎉 **Completed the 100 Days of Code Challenge!**  
-  Check out my journey: [100 Days of Code](https://github.com/hardik44ss/100-Days-of-Code).  
+🔭 I’m currently working on **[GharMate-Platform](https://ghar-mate-platform.vercel.app/)**  
+🌱 I’m currently learning **ServiceNow Certifications & Backend System Design**  
 
-🌱 Now focusing on Development alongside DSA and Problem Solving.  
+</div>
 
-👨‍💻 Explore my projects and code on [GitHub](https://github.com/hardik44ss).  
+<br/>
 
-🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/hardik44ss/).  
+<!-- ===================================================================== -->
+<!-- 3. CONNECT WITH ME (COMPACT SOCIALS BAR)                              -->
+<!-- ===================================================================== -->
+<h2 align="center">🌐 Connect With Me</h2>
 
-💬 Ask me about C++, DSA, and Problem Solving.  
-- 📫 How to reach me: **hardik4444ssss@gmail.com**.  
-- ⚡ Fun fact: *"The longer you live, the more you realize."* 🔅  
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hardik44ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik44ss" height="30" width="40" /></a>
-<a href="https://instagram.com/hardik44ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik44ss" height="30" width="40" /></a>
-<a href="https://leetcode.com/hardik44ss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardik44ss" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hardik44ss" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hardik44ss" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/hardik44ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hardik44ss" height="30" width="40" hspace="10" /></a>
-</p>
+<a href="https://www.linkedin.com/in/hardik44s/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:hardiksuthar4444@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/hardik44ss" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/hardik44ss" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik44ss&show_icons=true&locale=en&layout=compact" alt="hardik44ss" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik44ss&show_icons=true&locale=en" alt="hardik44ss" /></p>
+<!-- ===================================================================== -->
+<!-- 4. LANGUAGES, TOOLS & TECHNOLOGIES                                    -->
+<!-- ===================================================================== -->
+<h2 align="center">🛠️ Languages, Tools & Technologies</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik44ss&" alt="hardik44ss" /></p>
+<h3 align="center">💻 Languages</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python" alt="Programming languages"/>
+</div>
 
----
+<h3 align="center">⚙️ Backend & Databases</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate,mysql,mongodb,redis" alt="Backend technologies and databases"/>
+</div>
+
+<h3 align="center">🌐 Frontend</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend technologies"/>
+</div>
+
+<h3 align="center">🔧 Developer Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,azure" alt="Developer tools"/>
+</div>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!-- 5. FEATURED PROJECTS                                                  -->
+<!-- Add, edit, or reorder your live projects and repositories below       -->
+<!-- ===================================================================== -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+| # | Project | Description | Link |
+| :-: | :--- | :--- | :-: |
+| 1 | 🏡 **[GharMate](https://ghar-mate-platform.vercel.app/)** | Find verified contractors for home renovation and building | [🌐 Live Demo](https://ghar-mate-platform.vercel.app/) |
+| 2 | 🎵 **[SyncWave](https://github.com/hardik44ss/SyncWave)** | Real-time music synchronisation platform across connected clients | [📂 GitHub Repo](https://github.com/hardik44ss/SyncWave) |
+| 3 | 💻 **[CC-II Experiments](https://cc2lab-mastery.ai.studio)** | Interactive coding practice & Sem 7 Competitive Coding-II lab experiments | [🌐 Live App](https://cc2lab-mastery.ai.studio) |
+| 4 | 🗄️ **[SQL Revision](https://sql-revise.ai.studio)** | Interactive SQL cheatsheet and interview revision website | [🌐 Live App](https://sql-revise.ai.studio) |
+| 5 | 💰 **[Expense Tracker](https://expense-tracker-kappa-lemon.vercel.app)** | Web application to track, categorize, and manage daily expenses | [🌐 Live Demo](https://expense-tracker-kappa-lemon.vercel.app) |
+| 6 | 🛍️ **[Optechify](https://optechify.vercel.app)** | Responsive e-commerce store prototype built for a client | [🌐 Live Demo](https://optechify.vercel.app) |
+
+<br/>
+
+<a href="https://github.com/hardik44ss?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!-- 6. DSA & PROBLEM SOLVING (2-COLUMN TABLE: LINKS LEFT, CARD RIGHT)     -->
+<!-- ===================================================================== -->
+<h2 align="center">🧠 DSA & Problem Solving</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th align="center" width="320">🌐 Coding Platforms</th>
+    <th align="center" width="360">📊 Codolio Profile Card</th>
+  </tr>
+  <tr>
+    <!-- COLUMN 1: Row-wise Coding Platform Links -->
+    <td align="center" valign="middle">
+      <br/>
+      <a href="https://codolio.com/profile/hardik44ss" target="_blank">
+        <img src="https://img.shields.io/badge/Codolio-FF6B00?style=for-the-badge&logo=codio&logoColor=white" width="210" height="36" alt="Codolio"/>
+      </a>
+      <br/><br/>
+      <a href="https://leetcode.com/hardik44ss/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="210" height="36" alt="LeetCode"/>
+      </a>
+      <br/><br/>
+      <a href="https://www.geeksforgeeks.org/user/hardik44ss/" target="_blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" width="210" height="36" alt="GeeksforGeeks"/>
+      </a>
+      <br/><br/>
+      <a href="https://codeforces.com/profile/hardik44ss" target="_blank">
+        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" width="210" height="36" alt="Codeforces"/>
+      </a>
+      <br/><br/>
+      <a href="https://www.codechef.com/users/hardik44ss" target="_blank">
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" width="210" height="36" alt="CodeChef"/>
+      </a>
+      <br/><br/>
+      <a href="https://www.hackerrank.com/hardik44ss" target="_blank">
+        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" width="210" height="36" alt="HackerRank"/>
+      </a>
+      <br/><br/>
+    </td>
+    <!-- COLUMN 2: Clickable Codolio Card -->
+    <td align="center" valign="middle">
+      <a href="https://codolio.com/profile/hardik44ss" target="_blank">
+        <img width="260" alt="Codolio_Summary_Card" src="https://github.com/user-attachments/assets/0e6dc59c-089f-41cc-8766-529308fecf23" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!-- 7. GITHUB STATISTICS                                                  -->
+<!-- ===================================================================== -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardik44ss&theme=tokyonight" alt="GitHub contribution summary"/>
+
+</div>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!-- 8. CONTRIBUTION JOURNEY                                               -->
+<!-- ===================================================================== -->
+<h2 align="center">🐍 My Contribution Journey</h2>
+
+<div align="center">
+
+<!-- Instant Contribution Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hardik44ss&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardik44ss/hardik44ss/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardik44ss/hardik44ss/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hardik44ss/hardik44ss/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+<br/>
+
+<!-- ===================================================================== -->
+<!-- 9. FOOTER                                                             -->
+<!-- ===================================================================== -->
+<div align="center">
+  ⭐ <b>Thanks for visiting my profile!</b>
+</div>
